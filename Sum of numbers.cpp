@@ -1,4 +1,5 @@
 // example: 532 -> 5+3+2 = 10
+
 #include <iostream>
 #include <cstdlib>
 
