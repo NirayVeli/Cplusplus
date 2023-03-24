@@ -18,7 +18,7 @@ void dividers(int num)
 int main()
 {
     int num;
-    cout << "Input" << endl;
+    cout << "Input: " << endl;
     cin >> num;
 
     dividers(num);
